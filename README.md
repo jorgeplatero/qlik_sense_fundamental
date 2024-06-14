@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O projeto é resultado de um treinamento realizado na plataforma Udemy e dedicou-se ao desenvolvimento de uma aplicação de BI que analisa as receitas e despesas de uma empresa fictícia. O modelo de dados e a estrutura de tabelas utilizado é formatado de acordo com um sistema de ERP líder de mercado, simulando assim um ambiente real de desenvolvimento. O seguintes temas foram abordados: evolução do BI, modelagem de dados, modelo associativo, versões do Qlik Sense, medidas e dimensões mestre, objetos padrões e objetos personalizados. 
+Este projeto é resultado de um treinamento Qlik Sense realizado na plataforma Udemy e dedicou-se ao desenvolvimento de uma aplicação de BI que trás a analise de receitas e despesas de uma empresa fictícia. O modelo de dados e a estrutura de tabelas utilizado é formatado de acordo com um sistema de ERP líder de mercado, simulando assim um ambiente real de desenvolvimento. O seguintes temas foram abordados: evolução do BI, modelagem de dados, modelo associativo e versões do Qlik Sense, medidas e dimensões mestre, objetos padrões e objetos personalizados. 
 
 ## Tecnologias Utilizadas
 
