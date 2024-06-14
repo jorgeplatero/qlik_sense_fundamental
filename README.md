@@ -6,6 +6,8 @@ O projeto é resultado de um treinamento realizado na plataforma Udemy e dedicou
 
 ## Tecnologias Utilizadas
 
+<img src="https://github.com/jorgeplatero/qlik_sense_fundamental/blob/df95a04d352e385e90585f21ceca51855ca5e810/img/icone_qlik.png" width="50" height="50"/>
+
 ## Fontes de Dados
 
 Os dados foram disponibilizados no treinamento estão disponíveis neste repositório.
